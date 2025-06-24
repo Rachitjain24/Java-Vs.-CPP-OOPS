@@ -119,5 +119,3 @@ This project is part of an assignment to compare classical C++ vs modern STL and
 
 * Developed by Rachit Jain
 * For academic demonstration and performance benchmarking
-
-```
