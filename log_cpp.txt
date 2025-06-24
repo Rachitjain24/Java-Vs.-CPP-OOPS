@@ -1,0 +1,10 @@
+C++ STL Time Measurements:
+Read:  11685 ms
+Sort:  0 ms
+Write: 0 ms
+--------------------------
+C++ STL Time Measurements:
+Read:  10455 ms
+Sort:  0 ms
+Write: 0 ms
+--------------------------

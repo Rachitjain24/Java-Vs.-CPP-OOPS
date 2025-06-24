@@ -1,0 +1,5 @@
+Java Time Measurements:
+Read:  11292 ms
+Sort:  3 ms
+Write: 31 ms
+--------------------------
